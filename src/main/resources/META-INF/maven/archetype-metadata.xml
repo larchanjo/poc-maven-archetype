@@ -39,6 +39,13 @@ under the License.
       </includes>
     </fileSet>
 
+    <fileSet filtered="true" packaged="false" encoding="UTF-8">
+      <directory></directory>
+      <includes>
+        <include>README.md</include>
+      </includes>
+    </fileSet>
+
   </fileSets>
 
 </archetype-descriptor>
